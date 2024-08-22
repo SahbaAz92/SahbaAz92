@@ -8,7 +8,7 @@ I'm Sahba Azhari, a front-end developer and UX/UI Designer with a background in 
 
 HTML / CSS / JS 
 
-- 🔭 I’m currently working on a portfolio project  
+- 🔭 I’m currently working on a portfolio website project  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SahbaAz92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/SahbaAz92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/SahbaAz92)  
